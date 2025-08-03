@@ -1,5 +1,6 @@
 #!/bin/sh
 
+git commit -am 'site'
 
-# git commit -am 'site' && git push server   # personal server
-git commit -am 'site' && git push github # github pages
+# git push server   # personal server
+git push github # github pages
