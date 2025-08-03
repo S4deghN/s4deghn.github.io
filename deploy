@@ -2,5 +2,5 @@
 
 git commit -am 'site'
 
-# git push server   # personal server
+# git push server # personal server
 git push github # github pages
